@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/holud-lampost/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Holud Lampost](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holud-lampost/) |
+| **Get License** | [Request Licensing for Holud Lampost](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holud-lampost/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> হলুদ ল্যাম্পপোস্ট আলোয় ভিজে যায় আমার এই রাত
+> অচেনা কুয়াশায় হারায় আজ চেনা সে দুই হাত
+> অশ্রুর নীল সাগরে ভাসে আমার সব না বলা কথা
+> খুঁজে ফিরি সেই পুরনো পথের হারানো নীরবতা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
